@@ -1,5 +1,5 @@
 # Система контроля версий Git
-![GitHub](https://miro.medium.com/max/4800/1*cTPHRuyn46e4Su4QJ7S5NQ.gif)
+
 - [X] **Первоначальная настройка Git**
   
 > Первое, что вам следует сделать после установки Git — указать ваше имя и адрес электронной почты.
@@ -167,4 +167,3 @@
   git restore myFile.txt
 ```
 
-![END](https://psv4.userapi.com/c237331/u559371293/docs/d12/1a3a199c5170/1640455153605.gif?extra=ko8YyRMV1ojxhMeXxim_YI92ExA_QehLoVxSrw0Zsd68JICv9rbMOXM4EcDAq6X7zgHdtgsXeldrC-kbgnO0_DOKipA3YdUItvr_P9pVA_DjASJSnjU1YmOfFFj2sxtZUNRAOe2VpWRGkYYmFv2xvSVqVWg)![END](https://psv4.userapi.com/c237331/u559371293/docs/d12/1a3a199c5170/1640455153605.gif?extra=ko8YyRMV1ojxhMeXxim_YI92ExA_QehLoVxSrw0Zsd68JICv9rbMOXM4EcDAq6X7zgHdtgsXeldrC-kbgnO0_DOKipA3YdUItvr_P9pVA_DjASJSnjU1YmOfFFj2sxtZUNRAOe2VpWRGkYYmFv2xvSVqVWg)![END](https://psv4.userapi.com/c237331/u559371293/docs/d12/1a3a199c5170/1640455153605.gif?extra=ko8YyRMV1ojxhMeXxim_YI92ExA_QehLoVxSrw0Zsd68JICv9rbMOXM4EcDAq6X7zgHdtgsXeldrC-kbgnO0_DOKipA3YdUItvr_P9pVA_DjASJSnjU1YmOfFFj2sxtZUNRAOe2VpWRGkYYmFv2xvSVqVWg)
