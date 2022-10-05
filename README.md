@@ -166,8 +166,6 @@
 ```
   git restore myFile.txt
 ```
-<<<<<<< HEAD
-![ababa](https://i.gifer.com/ZImN.gif)
-=======
-![lol1](https://i.gifer.com/hdt.gif)
->>>>>>> 9812ddd99deb04691d7319630f7529e59313db4e
+
+![ababa](c.gif)
+
