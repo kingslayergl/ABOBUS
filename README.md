@@ -1,5 +1,5 @@
 # Система контроля версий Git
-
+![jj](https://fikiwiki.com/uploads/posts/2022-02/1644993833_13-fikiwiki-com-p-smeshnie-kartinki-pro-muzhikov-15.jpg)
 - [X] **Первоначальная настройка Git**
   
 > Первое, что вам следует сделать после установки Git — указать ваше имя и адрес электронной почты.
